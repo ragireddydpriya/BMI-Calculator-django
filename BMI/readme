@@ -1,0 +1,13 @@
+This project is built using django Framework
+
+
+Requirements:
+
+1.python
+2.django
+3.djangorestframework
+
+
+Run the project by using python manage.py runserver
+
+Available Methods are GET,POST
